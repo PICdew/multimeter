@@ -1,0 +1,34 @@
+[DeviceName]
+Value=P16F877A
+[DeviceClock]
+Value=4
+[MainUnit]
+Value=multimeter.c
+[DeviceFlags]
+Count=3
+Value0=_LVP_OFF = $3F7F
+Value1=_WDT_OFF = $3FFB
+Value2=_HS_OSC = $3FFE
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=1
+Value0=multimeter.c
+[HeaderFiles]
+Count=0
+[ObjLibFiles]
+Count=0
+[PLDFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[SearchPath]
+Count=6
+Value0=C:\Program Files (x86)\Mikroelektronika\mikroC\Defs\
+Value1=C:\Program Files (x86)\Mikroelektronika\mikroC\Uses\p16\
+Value2=D:\Users\Forrest\Desktop\multimeter_MCV8\multimeter_MCV8\
+Value3=C:\Program Files\Mikroelektronika\mikroC\Defs\
+Value4=C:\Program Files\Mikroelektronika\mikroC\Uses\p16\
+Value5=C:\Users\Ammar\Desktop\multimeter_MCV8\
+[IncludePath]
+Count=0
